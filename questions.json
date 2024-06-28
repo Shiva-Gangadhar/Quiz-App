@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Na meedha kopama anu?",
+      "choice1": "Avunu",
+      "choice2": "Avunu bey",
+      "choice3": "ledhu nv chaala manchi vaadivi",
+      "choice4": "vadhile",
+      "answer": 3
+    },
+    {
+      "question": "Ippudu video call cheyina",
+      "choice1": "Ha chey",
+      "choice2": "Musukuni chey bey",
+      "choice3": "cheyadhu ante manesthaava..",
+      "choice4": "Na meedha istam vunte chey",
+      "answer": 4
+    },
+    {
+      "question": "Emito na meedha antha frema ippudu nanu chudadiki?",
+      "choice1": "gurthu vasthunaav",
+      "choice2": "Em le",
+      "choice3": "vadhile",
+      "choice4": "baadha ga vundhi",
+      "answer": 4
+    }
+  ]
