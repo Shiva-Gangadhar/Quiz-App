@@ -6,6 +6,7 @@ Welcome to the Quiz App! This project is a dynamic and interactive quiz applicat
 ## Features
 
 - Home Page: The main screen with options to play the quiz or view high scores.
+   - High Scores Button: Navigates back to the high scores page.
 - High Scores: Displays the top 5 scores along with usernames from local storage.
 - Play Quiz: Starts the quiz with multiple-choice questions fetched from a third-party API.
   - Interactive Choices: Click on an answer choice to see if it's correct (green) or wrong (red).
@@ -13,7 +14,6 @@ Welcome to the Quiz App! This project is a dynamic and interactive quiz applicat
 - End Page: Shows after the maximum number of questions is completed.
   - Username Input: Allows users to enter their username.
   - Save Button: Saves the score with the username to local storage.
-  - High Scores Button: Navigates back to the high scores page.
   - Play Again Button: Restarts the quiz.
 
 
